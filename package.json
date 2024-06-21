@@ -1,0 +1,20 @@
+{
+  "name": "alpaca-trading-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "csv-writer": "^1.6.0",
+    "googleapis": "^140.0.0",
+    "moment": "^2.30.1",
+    "nodemon": "^3.1.4",
+    "technicalindicators": "^3.1.0"
+  }
+}
